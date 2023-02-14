@@ -26,10 +26,4 @@ Label(miFrame, text="Practica de interfaz grafica", font= ("Arial", 20)).place(x
 
 Label(miFrame, text="Nombre y apellidos: ", font=("Arial", 12)).place(x=175, y=150)
 
-textouno=Entry(miFrame)
-
-textouno(font=("Arial", 12))
-
-textouno.place(x=350, y=150)
-
-raiz.mainloop()
+raiz.mainloop() 
